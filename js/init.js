@@ -627,9 +627,9 @@ function arlo_tm_kenburn_slider() {
             delay: 7000,
 
             slides: [
-                { src: 'img/hero/ePhoto_Large.jpg' },
-                { src: 'img/hero/ePhoto_Large.jpg' },
-                { src: 'img/hero/ePhoto_Large.jpg' },
+                { src: 'https://metodoafd.com.br/wp-content/uploads/2020/10/Eu_programador.jpg' },
+                { src: 'https://metodoafd.com.br/wp-content/uploads/2020/10/ePhoto_grande.jpg' },
+                { src: 'https://metodoafd.com.br/wp-content/uploads/2020/10/ePhoto_grande.jpg' },
             ]
 
         });
