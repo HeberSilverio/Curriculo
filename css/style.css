@@ -212,7 +212,7 @@ img.svg{
 	content: "";
 	height: 2px;
 	width: 0px;
-	background-color: #E3872D;
+	background-color: #A7DBD8;
 	top: 14px;
 	transform: translateY(-50%);
 	left: 100%;
@@ -262,7 +262,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #E3872D;}
+.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #E3D26F;}
 .arlo_tm_leftpart_wrap .arlo_tm_resize{
 	position: absolute;
 	right: 0px;
@@ -271,7 +271,7 @@ img.svg{
 	height: 30px;
 	text-align: center;
 	line-height: 30px;
-	background-color: #E3872D;
+	background-color: #7CDEDC;
 	display: inline-block;
 	text-decoration: none;
 	z-index: 200;
@@ -438,7 +438,7 @@ img.svg{
 }
 .arlo_tm_hero_header_wrap .name_holder h3 span{
 	font-weight: 500;
-	color: #E3872D;
+	color:#E3D26F;
 }
 .arlo_tm_hero_header_wrap .text_typing{
 	width: 100%;
@@ -459,7 +459,7 @@ img.svg{
 	line-height: 1;
 	font-family: "Montserrat";
 }
-.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #E3872D;}
+.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #2222FE;}
 .arlo_tm_arrow_wrap{
 	position: absolute;
 	left: 50%;
@@ -522,7 +522,7 @@ img.svg{
 	content: "";
 	width: 6px;
 	height: 72px;
-	background-color: #E3872D;
+	background-color: #A7DBD8;
 	top: 2px;
 }
 .arlo_tm_title_holder h3{
@@ -1291,7 +1291,7 @@ img.svg{
 	margin-bottom: 22px;
 }
 .arlo_tm_testimonial_wrap .quotebox_wrap i{
-	color: #E3872D;
+	color: #7CDEDC;
 	font-size: 35px;
 }
 .arlo_tm_testimonial_wrap .definitions_wrap{
@@ -1933,7 +1933,7 @@ img.svg{
 	overflow: hidden;
 	outline: 1px solid rgba(255,255,255,.2);
 
-	background-color: #E3872D;
+	background-color: #7CDEDC;
     padding: 22px;
     border-radius: 3px;
     display: inline-block;
