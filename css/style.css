@@ -121,7 +121,7 @@ img.svg{
     position: absolute;
     height: 50%;
     width: 100%;
-    background-color: #041230;
+    background-color: #212D40;
 	
     -webkit-transition: .7s all ease;
     -o-transition: .7s all ease;
@@ -148,7 +148,7 @@ img.svg{
 	top: 0px;
 	bottom: 0px;
 	left: 0px;
-	background-color: #041230;
+	background-color: #212D40;
 	z-index: 100;
 	
 	-webkit-transition: all .3s ease;
@@ -161,7 +161,7 @@ img.svg{
 .arlo_tm_leftpart_wrap.hide{left: -300px;}
 .arlo_tm_leftpart_wrap.opened{left: -300px;}
 .arlo_tm_leftpart_wrap .logo_wrap{
-	background-color: #041230;
+	background-color: #0212D40;
 	padding: 50px 20px;
 	width: 100%;
 	float: left;
@@ -271,7 +271,7 @@ img.svg{
 	height: 30px;
 	text-align: center;
 	line-height: 30px;
-	background-color: #7CDEDC;
+	background-color: #FF9898;
 	display: inline-block;
 	text-decoration: none;
 	z-index: 200;
@@ -783,7 +783,7 @@ img.svg{
 .arlo_tm_about_wrap .buttons_wrap ul li a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #364156;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1026,7 +1026,7 @@ img.svg{
 .arlo_tm_services_wrap .list_wrap ul li .icon .svg{
 	width: 40px;
 	height: 40px;
-	color: #E3872D;
+	color: #364156;
 }
 .arlo_tm_services_wrap .list_wrap ul li .title_service{margin-bottom: 17px;}
 .arlo_tm_services_wrap .list_wrap ul li .title_service h3{
@@ -1518,7 +1518,7 @@ img.svg{
 .arlo_tm_news_wrap .read_more a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #364156;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1857,7 +1857,7 @@ img.svg{
 .arlo_tm_contact_wrap .arlo_tm_button a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #364156;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1933,7 +1933,7 @@ img.svg{
 	overflow: hidden;
 	outline: 1px solid rgba(255,255,255,.2);
 
-	background-color: #7CDEDC;
+	background-color: #FF9898;
     padding: 22px;
     border-radius: 3px;
     display: inline-block;
