@@ -537,7 +537,7 @@ function arlo_tm_animate_text() {
     var animateSpan = jQuery('.arlo_tm_animation_text_word');
 
     animateSpan.typed({
-        strings: ["Websites", "JavaScript", "CSS", "WordPress", "HTML", "MySQL"],
+        strings: ["SCRUM", "JavaScript - ES6+", "CSS3", "WordPress", "HTML5", "BootStrap", "Jquery"],
         loop: true,
         startDelay: 1e3,
         backDelay: 2e3
