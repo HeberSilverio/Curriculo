@@ -8,7 +8,7 @@
 Este repositório foi criado por mim com a intenção de ter uma página com a descrição das minhas habilidades. Para obter o resultado deste projeto eu utilizei plugins em JavaScript, Jquery, CSS3 e HTML5. Este projeto utiliza o conceito responsividade.
 
 ### ⌨️ Como executar o projeto
-```* Clonando o repositório
+``` Clonando o repositório
 git clone https://github.com/HeberSilverio/Curriculo.git
 
 # Execute o HTML abrindo o arquivo index.html no navegador
