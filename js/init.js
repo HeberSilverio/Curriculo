@@ -537,7 +537,7 @@ function arlo_tm_animate_text() {
     var animateSpan = jQuery('.arlo_tm_animation_text_word');
 
     animateSpan.typed({
-        strings: ["React","SCRUM", "JavaScript", "CSS3", "TypeScript", "HTML5", "Bootstrap", "Node"],
+        strings: ["Angular", "TypeScript", "JavaScript", "CSS3", "PHP", "HTML5", "Bootstrap", "Node", "PHP", "SQL", "Mongodb", "Google Cloud", "Azure", "Automation Anywhere", "Uipath", ],
         loop: true,
         startDelay: 1e3,
         backDelay: 2e3
